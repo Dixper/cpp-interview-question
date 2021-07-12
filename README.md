@@ -16,8 +16,8 @@ You are in! We will review your submission and will let you know how it goes!
 ## What can I change in the repository?
 
 You can change everything you desire as long as the tests pass. Just take notice that the questions interfaces with the
-test via the exported functions, so it's a good idea to avoid modifying these interfaces. (Also less code is better, so
-try to keep your changes small)
+tests via the exported functions, so it's a good idea to avoid modifying these interfaces. (Also less code is better,
+so try to keep your changes small)
 
 ## How will my submission be evaluated?
 
@@ -37,5 +37,6 @@ Each question is an exported function that needs to be implemented and tested. T
 the functions regarding the expected behavior. If you had difficulty understanding the questions let us know so we can
 help you figure things out.
 
-Each question has a pre-writen test that somewhat tests the expected behavior; however, the tests are not thorough and
-you will need to implement your own tests (your implemented unit tests will be evaluated).
+Each question has a pre-writen test provided in the project folder as an executable(built in debug mode) that runs on
+github actions and somewhat tests the expected behavior; however, the tests are not thorough and you will need to
+implement your own tests (your implemented unit tests will be evaluated).
