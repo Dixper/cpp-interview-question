@@ -31,4 +31,4 @@ jobs:
 
     - name: Run Test
       working-directory: ${{env.SOLUTION_FILE_PATH}}/x64/${{env.BUILD_CONFIGURATION}}
-      run: ${{env.SOLUTION_FILE_PATH}}/x64/${{env.BUILD_CONFIGURATION}}/question-a.exe
+      run: ls ${{env.SOLUTION_FILE_PATH}}/x64/${{env.BUILD_CONFIGURATION}}
