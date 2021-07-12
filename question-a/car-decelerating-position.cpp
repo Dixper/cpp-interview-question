@@ -8,11 +8,11 @@ namespace QuestionA
    *
    * \param car_position_data Contains a sequence of numbers (at least two) that represents position of the car sampled
    * at consequitive time intervals. The car is accelerating at the first position and decelerating at the last
-   * position. (Speed of the car will always be positive)
+   * position. (Speed of the car is positive at the start)
    *
-   * \return A floating point which represents the first position in the input at which the car starts decelerating.
+   * \return The first position in the input at which the car starts decelerating.
    */
-  __declspec(dllexport) float FindTheCarDeceleratingPosition(const std::vector<float>& carPositionData)
+  __declspec(dllexport) double FindTheCarDeceleratingPosition(const std::vector<double>& carPositionData)
   {
     return carPositionData.back();
   }
