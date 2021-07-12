@@ -4,5 +4,5 @@
 
 namespace QuestionA
 {
-  __declspec(dllimport) float find_the_car_decelerating_position(const std::vector<float>& car_position_data);
+  __declspec(dllimport) float FindTheCarDeceleratingPosition(const std::vector<float>& carPositionData);
 }

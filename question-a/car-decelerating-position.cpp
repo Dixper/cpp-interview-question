@@ -12,8 +12,8 @@ namespace QuestionA
    *
    * \return A floating point which represents the first position in the input at which the car starts decelerating.
    */
-  __declspec(dllexport) float find_the_car_decelerating_position(const std::vector<float>& car_position_data)
+  __declspec(dllexport) float FindTheCarDeceleratingPosition(const std::vector<float>& carPositionData)
   {
-    return car_position_data.back();
+    return carPositionData.back();
   }
 }
