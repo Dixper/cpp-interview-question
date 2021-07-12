@@ -37,6 +37,6 @@ Each question is an exported function that needs to be implemented and tested. T
 the functions regarding the expected behavior. If you had difficulty understanding the questions let us know so we can
 help you figure things out.
 
-Each question has a pre-writen test provided in the project folder as an executable(built in debug mode) that runs on
+Each question has a pre-writen test provided in the project folder as an executable (built in debug mode) that runs on
 github actions and somewhat tests the expected behavior; however, the tests are not thorough and you will need to
 implement your own tests (your implemented unit tests will be evaluated).
