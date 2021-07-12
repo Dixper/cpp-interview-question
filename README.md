@@ -29,7 +29,7 @@ Following points will be considered in your submission's evaluation:
 + Unit tests and the completeness of the tested behavior.
 
 Try to use the starndard library to its fullest and unless you really need it avoid adding external dependencies, the
-chance is you don't need it; however regarding unity tests yo
+chance is you don't need it; however regarding unity tests you're better off using a unit testing framework.
 
 ## What are the questions?
 

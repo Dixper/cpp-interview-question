@@ -15,12 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="car-breaking-position.cpp">
+    <ClCompile Include="car-decelerating-position.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="car-breaking-position.h">
+    <ClInclude Include="car-decelerating-position.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

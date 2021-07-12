@@ -139,10 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="car-breaking-position.cpp" />
+    <ClCompile Include="car-decelerating-position.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="car-breaking-position.h" />
+    <ClInclude Include="car-decelerating-position.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
