@@ -8,7 +8,7 @@ functions.
 To enter the interview you should follow the following steps:
 
 + Download the code, and push it to your own private repository.
-+ Add us (users: imayo, HosseinGhDixper) as a collaborators.
++ Add us (users: imayo, HosseinGhDixper) as collaborators.
 + Make a pull request for your solution on your own private repository and add us as a reviewer.
 
 You are in! We will review your submission and will let you know how it goes!
