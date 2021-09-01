@@ -9,13 +9,13 @@ To enter the interview you should follow the following steps:
 
 + Download the code, and push it to your own private repository.
 + Add us (users: imayo, HosseinGhDixper) as collaborators.
-+ Make a pull request for your solution on your own private repository and add us as a reviewer.
++ Make a pull request for your solution on your own private repository and add us as reviewers.
 
 You are in! We will review your submission and will let you know how it goes!
 
 ## What can I change in the repository?
 
-You can change everything you desire as long as the tests pass. Just take notice that the questions interfaces with the
+You can change everything you desire as long as the tests pass. Just take notice that the questions interface with the
 tests via the exported functions, so it's a good idea to avoid modifying these interfaces. (Also less code is better,
 so try to keep your changes small)
 
@@ -29,7 +29,7 @@ Following points will be considered in your submission's evaluation:
 + Unit tests and the completeness of the tested behavior.
 
 Try to use the starndard library to its fullest and unless you justifiably need it avoid adding external dependencies,
- the chance is you don't need it; however, regarding unit tests you're better off using a unit testing framework.
+the chance is you don't need it; however, regarding unit tests you're better off using a unit testing framework.
 
 ## What are the questions?
 
