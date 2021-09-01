@@ -7,7 +7,7 @@ functions.
 
 To enter the interview you should follow the following steps:
 
-+ Make a private fork of the repository.
++ Download the code, and push it to your own private repository.
 + Add us as a collaborator.
 + Make a pull request for your solution on your own private fork and add us as a reviewer.
 
