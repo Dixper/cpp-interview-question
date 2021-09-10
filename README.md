@@ -1,6 +1,6 @@
 # C++ Interview Question
 
-This solution contains question projects that compile to a `dll`s and iterfaces with the tests via the `dllexport`ed
+This solution contains question projects that compile to `dll`s and iterface with the tests via the `dllexport`ed
 functions.
 
 ## How to enter the interview?
